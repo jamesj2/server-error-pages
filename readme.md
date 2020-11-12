@@ -10,7 +10,6 @@
 * [How to Create Custom Error Pages](#how-to-create-custom-error-pages)
 * [Custom Error Messages](#custom-error-messages)
 
-
 ## Errors Avaliables
 * 400 Bad Request
 * 401 Unauthorized
